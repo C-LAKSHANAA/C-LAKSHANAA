@@ -10,4 +10,4 @@ I'm exploring AI/ML, software engineering, and emerging technologies — learnin
 
 **Tech I use:** Python · Angular · TypeScript · SQL
 
-📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/clakshanaa/)])
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/clakshanaa/)
